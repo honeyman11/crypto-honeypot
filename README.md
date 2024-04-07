@@ -1,4 +1,7 @@
 # crypto-honeypot
+
+![afe98bc3ef289ea69e76424a63c67d57e509b68418fba83f7be10c149a6710e0](https://github.com/honeyman11/crypto-honeypot/assets/166214160/9d402bd7-cd03-492b-ba96-b88e994ab2f9)
+
 Honeypot Smart-Contract
 
 📝 Honeypot Pro Edition V3
