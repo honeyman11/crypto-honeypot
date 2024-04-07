@@ -38,8 +38,14 @@ Make your mark in the blockchain world - with our unique smart contract.
 ⁃  Fake renounce ownership (There will be a transaction on the blockchain as you renounce ownership)
 
  ⁃  The maximum number of tokens per transaction (a.k.a Anti-kit system. Purchases can be made for any number of tokens. Sales - only for the set maximum. Works within one transaction.)
+
+
  ⁃  Auto-blocking (After the first sale, the user is blacklisted automatically. Further, only the purchase is available.)
+
+
 ⁃  Blocking by token limit (If the wallet balance exceeds the set limit = the sale and transfer will be blocked.)
+
+
 ⁃  Undetectable Contract (You can make the contract undetectable on honeypot.is, Rugdoc, Cyberscope, GoPlus Security and etc.Accordingly, it will not be detected as honeypot in dex platforms like dextools, dexview and etc. (but this may be discovered over time, depending on how you run the project and what features you use.)
 
 
