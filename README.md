@@ -71,4 +71,4 @@ By using powerful control features, cutting-edge strategies, and staying invisib
 
  For all questions, write to the DM 
 
- Regards, Telegram: @T837381🖤
+ Regards, Telegram: 🖤
